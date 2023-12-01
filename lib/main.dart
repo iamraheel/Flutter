@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Icon(Icons.person_2_outlined),
-              Text('T: @imraheelbig'),
+              Text('T: @imraheelbaig'),
             ],
           )
         ],
